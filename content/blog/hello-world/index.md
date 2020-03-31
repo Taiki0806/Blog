@@ -1,22 +1,36 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+date: "2020-04-01T00:00:30.000Z"
+description: "GatsbyでBlog始めました！！"
 ---
 
-This is my first post on my new fake blog! How exciting!
+## 自己紹介
 
-I'm sure I'll write a lot more interesting things in the future.
+こんにちは、yossyです！
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+現在は都内でWebエンジニアをしており、
+マイクロサービスのプロダクトの新規開発をBackendをメインに担当しております！
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+学生時代はひたすらサッカーに没頭しており、新卒で地方銀行に入社しました。
 
-![Chinese Salty Egg](./salty_egg.jpg)
+、、、が！
+
+地方銀行で働かせていただいている際に、プログラミングに出会い、
+これはサッカーに変わって自分の人生を充実させてくれるものではと考え、
+思い立ったが即行動、
+前職の方にご迷惑をおかけすることもあったと思いますが、
+「やりたいことがあるなら応援するで！」
+「起業したら俺のこと経理で雇ってな！」
+と応援していただき、なんやかんやでエンジニアになりました！
+
+## Blogを始めた経緯
+
+今は去年現職にjoinさせていただいてちょうど1年たったところです。
+
+入社時から関わってきたプロダクトがいよいよリリースという時期にきており
+エンジニアになってから今までかなりインプット過多で全然アウトプットできていなかったので、
+「そろそろアウトプットせなあかんな〜。」
+と思い立ったのでGatsbyでBlogを始めてみました！
+
+技術的に学んだことをメインに、その時思ったことなどもちょこちょこ発信していけたらと思いますので、
+これからよろしくお願い致します！
