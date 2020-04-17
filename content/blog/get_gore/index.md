@@ -88,8 +88,8 @@ nil
 おおー！
 ちゃんと現在時刻が出力されましたね！
 
-ちなみに`-autoimport`オプションをつけるかgore起動したあとに明示的にimportしてあげないと  
-`undefined`になっちゃうので注意です！
+ちなみに`-autoimport`オプションをつけるかgore起動したあとに明示的に  
+importしてあげないと`undefined`になっちゃうので注意です！
 
 ```zsh
 $ gore
